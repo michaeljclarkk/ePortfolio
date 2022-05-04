@@ -1,7 +1,7 @@
 # ePortfolio
 Evidence of my objectives are provided here:
 1. Explain communication concepts and strategies.
-- Pending.
+- //Pending.
 3. Show confidence and skills in oral communications and presentations. 
 - Performed an oral [Presentation](Week7PracticePresentation.mp4)
 - Slides can be seen [here](Week7PracticePresentationSlides.pptx)
