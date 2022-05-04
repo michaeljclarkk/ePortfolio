@@ -1,0 +1,45 @@
+Define Blockchain and Blockchain credentials.
+Identify some Pro’s and Con’s of current credential storage.
+Convince you, the audience that merging blockchain technology into the education sector would mean implementing positive change to credential verification. As  (Dictionaries, O. 2021) defines; Blockchain to
+be “a digital ledger in which transactions made in bitcoin or another
+cryptocurrency are recorded chronologically and publicly.“
+
+•Decentralized in Nature,
+Storing verified credentials within the blockchain offers the highest standards
+of security and substantially decreases the risk of fraudulent ongoings. •Education provides the foundations for
+development. With the number of tertiary students across the globe being
+~220,000,000 (Arnhold. N, 2021) . Keeping a record of verified credentials is
+continuously inclining in difficulty. The current method is  paper records and school databases with some
+colleges still
+using file cabinets
+for storing student data and the labour-intensive task of retrieving student
+certification becomes unconventional when the opportunity to delve into the
+blockchain arises.•Blockchain gives the scholars full
+control over their accreditations, this makes future verification on the
+employer's side much more-easier. (Ashesh. A, 2022).
+
+•The benefits for the institutions are
+unparallel, Using This technology to issue certifications fast-tracks the
+verification methods conventionally used as the scholar's transition between
+institutions. 
+
+•When fully incorporated, Blockchain technology can
+be useful for storing curriculums, The storage capabilities and security
+measures are incomparable. Conventionally, digital aspects of curricula have been stored within hard drives,
+this method is very limited mechanically.•3 Years ago, Maryville University was one of the
+first institutes to begin the implementation of blockchain credential storage
+via an app on scholars' smartphones. Students now possess the ability to manage
+their own achievements via the application “Blockcerts Wallet.” The App allows
+for a full verification with Lidded security measures to protect their
+digital diplomas and degrees. (Articles. Maryville University, 2020)  
+
+•The University of Nicosia has implemented
+their own fully functional blockchain library that stores data such as grades,
+certifications and curriculum elements. 
+
+3 Years ago, Maryville University was one of the first institutes to begin the implementation of blockchain credential storage via an app on scholars' smartphones. Students now possess the ability to manage their own achievements via the application “Blockcerts Wallet.” The App allows for a full verification with Lidded security measures to protect their digital diplomas and degrees. (Articles. Maryville University, 2020)  
+The University of Nicosia has implemented their own fully functional blockchain library that stores data such as grades, certifications and curriculum elements. 
+
+Conclusively;
+Merging blockchain technology into the education sector will provide a route to overcome the challenges involved with conventional credential storage and validity methods. 
+
