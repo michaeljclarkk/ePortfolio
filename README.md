@@ -10,3 +10,4 @@ Evidence of my objectives are provided here:
 - Demonstration of effective communication within a proffessional context can be seen in my Network Infrastructure Foundations [Portfolio](Clark_Michael_12188698_Networked_Infrastructure_Foundations_Assessment_Portfolio.pdf)
 5. Define and demonstrate conflict management and resolution strategies:
 - Obtained a Certificate II in [Security Operations](SecurityOperations.pdf) //Have not yet been able to do Wk4 Conflict Roleplays but have covered this extensively as a Unarmed Security Officer. 
+6. Developed an index in [Java](Assessment1BMichael.zip) 
